@@ -44,3 +44,9 @@ return n * factorial(n-1);
 **********************************
 #### English
 ##### B1
+# Contacts
+#### +48 500-303-446
+#### ina.davidziuk@gmail.com
+#### [inadavidziuk-uiux][https://www.linkedin.com/in/inadavidziuk-uiux/]
+#### [Ina-Davidziuk#0378][https://discord.com/login?redirect_to=%2Fchannels%2F%40me]
+
