@@ -34,3 +34,13 @@ if (n <= 1) return 1;
 return n * factorial(n-1); 
 }
 ```
+# Projects
+#### [CV][https://ina-davidziuk.github.io/rsschool-cv/]
+#### [Plants][https://rolling-scopes-school.github.io/ina-davidziuk-JSFEPRESCHOOL2022Q4/plants/ ]
+#### [Momentum][https://rolling-scopes-school.github.io/ina-davidziuk-JSFEPRESCHOOL2022Q4/stage1-tasks/momentum/ ]
+# Languages
+#### Russian
+##### Native
+**********************************
+#### English
+##### B1
