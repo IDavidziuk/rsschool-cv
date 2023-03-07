@@ -22,3 +22,15 @@
 ##### 2022-2023
 #### “JavaScript”
 ##### Rs School
+# Skills
+* #### HTML5, CSS3
+* #### Git, GitHub
+* #### Figma, Adobe Photoshop
+
+# Code
+``` function factorial(n) { 
+if(n < 0) return null;
+if (n <= 1) return 1; 
+return n * factorial(n-1); 
+}
+```
